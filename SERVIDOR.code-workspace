@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../../.."
+		},
+		{
+			"name": "juego",
+			"path": "../../juego"
+		},
+		{
+			"name": "juego_micro",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
